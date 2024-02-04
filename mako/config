@@ -1,0 +1,17 @@
+sort=-time
+layer=overlay
+background-color=#282828
+width=300
+height=110
+text-color=#ebdbb2
+border-size=2
+border-color=#fe8019
+border-radius=12
+icons=1
+max-icon-size=64
+default-timeout=0
+ignore-timeout=1
+font=Liberation Mono 14
+anchor=top-center
+[app-name="SteamTinkerLaunch"]
+invisible=1
